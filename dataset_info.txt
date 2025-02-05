@@ -1,0 +1,3 @@
+Dataset: Flickr8k - 8,000 images with captions.
+Source: https://www.kaggle.com/datasets/adityajn105/flickr8k
+Format: Images (.jpg) and captions (.txt)
