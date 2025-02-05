@@ -8,7 +8,7 @@ Line 3: /kaggle/input/flickr8k/Images/2823200990_7b02b7cc36.jpg, <start> A boy j
 Line 4: /kaggle/input/flickr8k/Images/1015584366_dfcec3c85a.jpg, <start> A black dog leaps over a log . <end>
 Line 5: /kaggle/input/flickr8k/Images/482047956_9a29e9cee6.jpg, <start> A group of girls are riding on a roller coaster . <end>
 
-![Output 1](outputs/outputimage1.png) 
+outputs/outputimage1.png
 
 Vocabulary size: 9123
 
