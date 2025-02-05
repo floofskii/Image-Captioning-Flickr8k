@@ -15,8 +15,8 @@ from tensorflow.keras.applications import InceptionV3
 from tensorflow.keras.optimizers import Adam
 
 # Define dataset paths
-IMAGES_PATH = '/kaggle/input/flickr8k/Images'
-TEXT_FILE = '/kaggle/input/flickr8k/captions.txt'
+IMAGES_PATH = 'dataset/Images'  # Updated to a general path
+TEXT_FILE = 'dataset/captions.txt'
 
 # Function to load captions and process data
 def load_captions_data(filename):
@@ -162,6 +162,6 @@ def predict_caption(image_path, model, tokenizer):
     return ' '.join([tokenizer.index_word.get(i, '') for i in caption_sequence[0]])
 
 # Example usage
-image_path = '/path/to/new/image.jpg'  # Replace with actual image path
+image_path = 'dataset/sample_image.jpg'  # Updated to general path
 predicted_caption = predict_caption(image_path, captioning_model, tokenizer)
 print(f"Predicted Caption: {predicted_caption}")
