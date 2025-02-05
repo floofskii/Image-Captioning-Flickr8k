@@ -15,13 +15,13 @@ from tensorflow.keras.applications import InceptionV3
 from tensorflow.keras.optimizers import Adam
 
 # Define dataset paths
-IMAGES_PATH = 'dataset/Images'  # Updated to a general path
+IMAGES_PATH = 'dataset/Images'  # include your paths
 TEXT_FILE = 'dataset/captions.txt'
 
 # Function to load captions and process data
 def load_captions_data(filename):
     with open(filename, "r", encoding="utf-8") as file:
-        caption_data = file.readlines()[1:]  # Skip header
+        caption_data = file.readlines()[1:]  
 
     caption_mapping = {}
     text_data = []
