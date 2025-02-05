@@ -13,11 +13,11 @@ This repository contains an **Image Captioning Model** trained on the **Flickr8k
 
 ---
 
-## 🚀 Project Overview
+##  Project Overview
 
 This project implements a **Deep Learning-based Image Captioning Model**. The model takes an image as input and generates a textual description (caption) based on learned patterns.
 
-### ✨ **Key Features**
+### **Key Features**
 - Uses **InceptionV3** for image feature extraction.
 - Uses **LSTM** (Long Short-Term Memory) to generate captions.
 - Trained on **Flickr8k**, a dataset with **8,000 images and captions**.
@@ -26,4 +26,4 @@ This project implements a **Deep Learning-based Image Captioning Model**. The mo
 
 ---
 
-## 📂 Folder Structure
+##  Folder Structure
