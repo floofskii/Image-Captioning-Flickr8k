@@ -7,9 +7,9 @@ Deep Learning-based Image Captioning Model using InceptionV3 and LSTM, trained o
 
 This repository contains an **Image Captioning Model** trained on the **Flickr8k dataset** using **InceptionV3** (for image feature extraction) and **LSTM** (for text generation). 
 
-🚀 **Technologies Used:** TensorFlow, Keras, NumPy, Python  
+ **Technologies Used:** TensorFlow, Keras, NumPy, Python  
 📂 **Dataset:** [Flickr8k Dataset](https://www.kaggle.com/datasets/adityajn105/flickr8k)  
-🛠 **Model:** InceptionV3 (pre-trained) + LSTM  
+**Model:** InceptionV3 (pre-trained) + LSTM  
 
 ---
 
