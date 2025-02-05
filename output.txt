@@ -2,11 +2,11 @@
 Total lines in captions file: 8091
 
 Sample caption lines (randomly selected):
-Line 1: /kaggle/input/flickr8k/Images/2765029348_667111fc30.jpg, <start> A bikers flips upside down . <end>
-Line 2: /kaggle/input/flickr8k/Images/317109978_cb557802e1.jpg, <start> A brown and white pitbull , with a black collar , is about to leap over a branch <end>
-Line 3: /kaggle/input/flickr8k/Images/2823200990_7b02b7cc36.jpg, <start> A boy jumping off a chair . <end>
-Line 4: /kaggle/input/flickr8k/Images/1015584366_dfcec3c85a.jpg, <start> A black dog leaps over a log . <end>
-Line 5: /kaggle/input/flickr8k/Images/482047956_9a29e9cee6.jpg, <start> A group of girls are riding on a roller coaster . <end>
+Line 1: dataset/Images/2765029348_667111fc30.jpg, <start> A biker flips upside down. <end>
+Line 2: dataset/Images/317109978_cb557802e1.jpg, <start> A brown and white pitbull, with a black collar, is about to leap over a branch. <end>
+Line 3: dataset/Images/2823200990_7b02b7cc36.jpg, <start> A boy jumping off a chair. <end>
+Line 4: dataset/Images/1015584366_dfcec3c85a.jpg, <start> A black dog leaps over a log. <end>
+Line 5: dataset/Images/482047956_9a29e9cee6.jpg, <start> A group of girls are riding on a roller coaster. <end>
 
 outputs/outputimage1.png
 
